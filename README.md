@@ -9,8 +9,5 @@ Step 4: In RateExchangeController, created ActionResult to return the view and J
 Step 5: In index.cshtml, within document.ready call 
         $.ajax method to invoke url: '/RateExchange/ExchangeRate',with the parameters.
         
-After running the aplication, the method has been called and faced an issue like "The remote server returned an error (405)
-Method not allowed"
-
 To run:
 Please open the APICalldemo.sln in visual studio environment.
