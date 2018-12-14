@@ -14,4 +14,4 @@ Please open the APICalldemo.sln in visual studio environment.
 Step 1: You can provide the startdate and enddate in "yyyy-mm-dd" format eg:2018-01-15.
 Step 2: Enter the currency type as SEK,NOK,INR,HUF etc in base and target currency fields.
 Step 3: Click submit button.
-Step 4: Results with Min, max and average value will display. Here, the date is not being shown.
+Step 4: Results with Min, max and average value will display.
